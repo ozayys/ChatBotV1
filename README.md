@@ -131,6 +131,4 @@ JWT_SECRET=your_secret
 
 ---
 
-**💡 İpucu:** İlk çalıştırmada modellerin yüklenmesi 1-2 dakika sürebilir.
-
-Made with ❤️ - ChatBot V1 
+**💡 İpucu:** İlk çalıştırmada modellerin yüklenmesi 1-2 dakika sürebilir
