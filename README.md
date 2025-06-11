@@ -127,11 +127,8 @@ JWT_SECRET=your_secret
 | Model | Özellik | Hız |
 |-------|---------|-----|
 | T5 CodeParrot | Kod yazma | ⚡ Hızlı |
-| Mistral 7B | Genel AI | ⚡⚡ Orta |
-| ChatGPT | Kapsamlı | ⚡⚡⚡ Yavaş |
+| Mistral 7B | Genel AI | ⚡⚡ Yavaş |
 
 ---
 
-**💡 İpucu:** İlk çalıştırmada modellerin yüklenmesi 1-2 dakika sürebilir.
-
-Made with ❤️ - ChatBot V1 
+**💡 İpucu:** İlk çalıştırmada modellerin yüklenmesi 1-2 dakika sürebilir
